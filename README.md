@@ -88,47 +88,65 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 # Installing the Pwnagotchi software
 
 ![Image of Step 1](5_installing_step_01.jpg)
-## Step 1: Grab your microSD card
+## Step 1: Grab your microSD card and plug it into your computer
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_02.jpg)
+## Step 2: Download the Pwnagotchi zip file
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_03.jpg)
+## Step 3: Unzip the Pwnagotchi zip file
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_04.jpg)
+## Step 4: Open balenaEtcher and click "Flash from file"
+(or your choice of microSD card flasher)
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_05.jpg)
+## Step 5: Select the .img file from the folder you unzipped in step 3 
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_06.jpg)
+## Step 6: Click "Select target"
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_07.jpg)
+## Step 7: Check the box with your microSD card and click "Select"
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_08.jpg)
+## Step 8: Review the settings and then click "Flash"
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_09.jpg)
+## Step 9: Wait for the program to finish flashing your microSD card
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_10.jpg)
+## Step 10: On your desktop, create a new text file and rename it  "config.toml"
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_11.jpg)
+## Step 11: Copy the config template from the Pwnagotchi site and edit the settings to your liking. 
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_12.jpg)
+## Step 12: Once you are finished editing the config.toml, copy the file to the root directroy of your microSD card.
+Make sure that you are placing a COPY of the file onto the microSD card. The pwnagotchi will delete the file everytime it boots up. So make sure you have a copy. If your microSD card does not show up in your file explorer, unplug it and plug it back in. Then it should show up.
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
+![Image of Step ](5_installing_step_13.jpg)
+## Step 13: 
 
-![Image of Step ](5_installing_step_01.jpg)
-## Step : 
 
+
+![Image of Step ](5_installing_step_14.jpg)
+## Step 14: 
+
+![Image of Step ](5_installing_step_15.jpg)
+## Step 15:
+
+![Image of Step ](5_installing_step_16.jpg)
+## Step 16:
+
+![Image of Step ](5_installing_step_17.jpg)
+## Step 17:
+
+![Image of Step ](5_installing_step_18.jpg)
+## Step 18: 
+
+![Image of Step ](5_installing_step_19.jpg)
+## Step 19: 
 
 
 
