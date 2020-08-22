@@ -11,6 +11,7 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 
 ![Image of Materials](2_materials.jpg)
 
+
 # Materials
 
 - [ ] [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
@@ -27,4 +28,4 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 
 - [ ] [Any USB to Micro USB cable (must support data transfer)]() 
 
-- [ ] [Pisugar Portable 1200 mAh Lithium Battery for Raspberry Pi Zero](https://www.amazon.com/gp/product/B07RC649ZC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
+- [ ] [Pisugar Portable Battery for Raspberry Pi Zero (not pictured)](https://www.amazon.com/gp/product/B07RC649ZC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
