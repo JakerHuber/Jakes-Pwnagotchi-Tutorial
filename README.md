@@ -32,7 +32,7 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 
 8. [Pisugar Portable Battery for Raspberry Pi Zero (not pictured)](https://www.amazon.com/gp/product/B07RC649ZC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
 
-![Image of Materials](2_materials.jpg)
+![Image of Materials](/images/2_materials.jpg)
 
 
 
@@ -52,33 +52,33 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 
 6. [Soldering station]()
 
-![Image of Tools](3_tools.jpg)
+![Image of Tools](/images/3_tools.jpg)
 
 
 # Building the Pwnagotchi
 
 
 ### Step 1: Place the headers onto the raspberry pi
-![Image of Step 1](4_building_step_01.jpg)
+![Image of Step 1](/images/4_building_step_01.jpg)
 
 
 ### Step 2: Carefully solder the headers onto the raspberry pi
-![Image of Step 2](4_building_step_02.jpg)
+![Image of Step 2](/images/4_building_step_02.jpg)
 
 ### Step 3: Plug the Waveshare display into the raspberry pi
-![Image of Step 3](4_building_step_03.jpg)
+![Image of Step 3](/images/4_building_step_03.jpg)
 
 ### Step 4: Prepare the PiRTC to be put onto the raspberry pi
-![Image of Step 4](4_building_step_04.jpg)
+![Image of Step 4](/images/4_building_step_04.jpg)
 
 ### Step 5: Carefully solder the wires onto the PiRTC
-![Image of Step 5](4_building_step_05.jpg)
+![Image of Step 5](/images/4_building_step_05.jpg)
 
 ### Step 6: Carefully solder the PiRTC onto the raspberry pi
-![Image of Step 6](4_building_step_06.jpg)
+![Image of Step 6](/images/4_building_step_06.jpg)
 
 ### Step 7: Attach the Pisugar battery to the raspberry pi
-![Image of Step 7](4_building_step_07.jpg)
+![Image of Step 7](/images/4_building_step_07.jpg)
 
 #### Finished! Now you are ready to begin flashing the microSD card
 
@@ -89,61 +89,61 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 
 
 ### Step 1: Grab your microSD card and plug it into your computer
-![Image of Step 1](5_installing_step_01.jpg)
+![Image of Step 1](/images/5_installing_step_01.jpg)
 
 ### Step 2: Download the Pwnagotchi zip file
-![Image of Step 2](5_installing_step_02.jpg)
+![Image of Step 2](/images/5_installing_step_02.jpg)
 
 ### Step 3: Unzip the Pwnagotchi zip file
-![Image of Step 3](5_installing_step_03.jpg)
+![Image of Step 3](/images/5_installing_step_03.jpg)
 
 ### Step 4: Open balenaEtcher and click "Flash from file"
 (or your choice of microSD card flasher)
-![Image of Step 4](5_installing_step_04.jpg)
+![Image of Step 4](/images/5_installing_step_04.jpg)
 
 ### Step 5: Select the .img file from the folder you unzipped in step 3 
-![Image of Step 5](5_installing_step_05.jpg)
+![Image of Step 5](/images/5_installing_step_05.jpg)
 
 ### Step 6: Click "Select target"
-![Image of Step 6](5_installing_step_06.jpg)
+![Image of Step 6](/images/5_installing_step_06.jpg)
 
 ### Step 7: Check the box with your microSD card and click "Select"
-![Image of Step 7](5_installing_step_07.jpg)
+![Image of Step 7](/images/5_installing_step_07.jpg)
 
 ### Step 8: Review the settings and then click "Flash"
-![Image of Step 8](5_installing_step_08.jpg)
+![Image of Step 8](/images/5_installing_step_08.jpg)
 
 ### Step 9: Wait for the program to finish flashing your microSD card
-![Image of Step 9](5_installing_step_09.jpg)
+![Image of Step 9](/images/5_installing_step_09.jpg)
 
 ### Step 10: On your desktop, create a new text file and rename it  "config.toml"
-![Image of Step 10](5_installing_step_10.jpg)
+![Image of Step 10](/images/5_installing_step_10.jpg)
 
 ### Step 11: Copy the config template from the Pwnagotchi site and edit the settings to your liking. 
-![Image of Step 11](5_installing_step_11.jpg)
+![Image of Step 11](/images/5_installing_step_11.jpg)
 
 ### Step 12: Once you are finished editing the config.toml, copy the file to the root directroy of your microSD card.
 Make sure that you are placing a COPY of the file onto the microSD card. The pwnagotchi will delete the file everytime it boots up. So make sure you have a copy. If your microSD card does not show up in your file explorer, unplug it and plug it back in. Then it should show up.
-![Image of Step 12](5_installing_step_12.jpg)
+![Image of Step 12](/images/5_installing_step_12.jpg)
 
 ### Step 13: Grab your raspberry pi and your microSD card
-![Image of Step 13](5_installing_step_13.jpg)
+![Image of Step 13](/images/5_installing_step_13.jpg)
 
 ### Step 14: Carefully place your microSD card into the raspberry pi's SD card slot 
-![Image of Step 14](5_installing_step_14.jpg)
+![Image of Step 14](/images/5_installing_step_14.jpg)
 
 ### Step 15: Power on the raspberry pi 
 Make sure to plug the USB cable into the port on the LEFT. The micro USB port on the left is the power port and is for normal use. The micro USB port on the right is the maintenance port and is used to retrieve data from your pwnagotchi. 
-![Image of Step 15](5_installing_step_15.jpg)
+![Image of Step 15](/images/5_installing_step_15.jpg)
 
 ### Step 16: Wait for the raspberry pi to power on. You should see a green indicator light start flashing.
-![Image of Step 16](5_installing_step_16.jpg)
+![Image of Step 16](/images/5_installing_step_16.jpg)
 
 ### Step 17: Once it's powered up, DO NOT TURN OFF. Wait for the first-boot initialization to finish.
 Make sure that you DO NOT INTERRUPT the first-boot initialization. This step could take a while to finish. When it is done, the message will change.   
-![Image of Step 17](5_installing_step_17.jpg)
+![Image of Step 17](/images/5_installing_step_17.jpg)
 
 #### FINISHED!
 Congratulations, you are now finished building the pwnagotchi. Check out the [pwnagotchi official website](https://pwnagotchi.ai/) to learn how to use your new digital pet. 
-![Image of Step 18](5_installing_step_18.jpg)
+![Image of Step 18](/images/5_installing_step_18.jpg)
 
