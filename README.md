@@ -1,5 +1,5 @@
 # How to Build a Pwnagotchi Step-By-Step
-###### Date: 8/22/2020 | Project title: Fake B*tch
+###### Date: 8/22/2020 | Project title: Jeff's Pwnagotchi
 
 
 
