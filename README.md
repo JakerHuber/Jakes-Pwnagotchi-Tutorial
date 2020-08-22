@@ -80,7 +80,7 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 ## Step 7: Attach the Pisugar battery to the raspberry pi
 ![Image of Step 7](4_building_step_07.jpg)
 
-### Finished! Now you are ready to begin flashing the microSD card
+#### Finished! Now you are ready to begin flashing the microSD card
 
 
 
@@ -144,7 +144,7 @@ Make sure to plug the USB cable into the port on the LEFT. The micro USB port on
 Make sure that you DO NOT INTERRUPT the first-boot initialization. This step could take a while to finish. When it is done, the message will change.   
 ![Image of Step 17](5_installing_step_17.jpg)
 
-## FINISHED!
+#### FINISHED!
 Congratulations, you are now finished building the pwnagotchi. Check out the [pwnagotchi official website](https://pwnagotchi.ai/) to learn how to use your new digital pet. 
 ![Image of Step 18](5_installing_step_18.jpg)
 
