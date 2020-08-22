@@ -14,7 +14,7 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 
 # Materials
 
-- [ ] [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
+- [ ] 1. [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
 
 - [ ] [40-Pin (2 x 20) Male Header](https://www.amazon.com/Frienda-Break-Away-Connector-Compatible-Raspberry/dp/B083DYVWDN/ref=sr_1_5?dchild=1&keywords=40-Pin+%282+x+20%29+Male+Header&qid=1598122986&sr=8-5)
 
