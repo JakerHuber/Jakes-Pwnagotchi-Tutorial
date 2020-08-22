@@ -1,7 +1,7 @@
 # How to Build a Pwnagotchi Step-By-Step
 ###### Date: 8/22/2020 | Project title: Jeff's Pwnagotchi
 
-![Image of Pwnagotchi](1_pwnagotchi.jpg)
+![Image of Pwnagotchi](/images/1_pwnagotchi.jpg)
 
 ## What is Pwnagotchi?
 Pwnagotchi is a handheld digital pet for hacking Wi-Fi that gets smarter as it visits more Wi-Fi networks. Pwnagotchi learns by capturing Wi-Fi messages while their owner takes them for walks. Pwnagotchi is a fun hacking project that can be built with a simple Raspberry Pi Zero. 
