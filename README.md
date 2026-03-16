@@ -68,17 +68,20 @@ Pwnagotchi is an A2C-based “AI” powered by bettercap that learns from its su
 ### Step 3: Plug the Waveshare display into the raspberry pi
 ![Image of Step 3](/images/4_building_step_03.jpg)
 
-### Step 4: Prepare the PiRTC to be put onto the raspberry pi
+### Step 4.1: (optional) Grab your PiRTC
+If you want the clock to be accurate on your Pwnagotchi, then you can install the PiRTC. There are a couple ways that you can install it. Do NOT put in the battery yet. Wait until you're done soldering. 
 ![Image of Step 4](/images/4_building_step_04.jpg)
 
-### Step 5: Carefully solder the wires onto the PiRTC
-![Image of Step 5](/images/4_building_step_05.jpg)
+### Step 4.2 Method A: Carefully solder the PiRTC directly onto the raspberry pi headers
+The simplest installation method is to place the PiRTC directly on the rasberry pi (like in the right picture) and then solder the pins. You must solder very quickly at low heat or else you could melt the plastic. I didn't use this method for my Pwnagotchi since i kept accidentally melting the plastic.
+![Image of Step 4 Method A](/images/4_building_step_05.jpg)
 
-### Step 6: Carefully solder the PiRTC onto the raspberry pi
-![Image of Step 6](/images/4_building_step_06.jpg)
+### Step 4.2 Method B: Carefully solder wires between the PiRTC and the raspberry pi
+This is the method that I used for my Pwnagotchi. Solder wires between the PiRTC and the raspberry pi. Make sure to follow the same pin arrangement in step 4.2. Once you're done soldering, you can tuck the PiRTC inbetween the raspberry pi and Waveshare display.  
+![Image of Step 4 Method B](/images/4_building_step_06.jpg)
 
-### Step 7: Attach the Pisugar battery to the raspberry pi
-![Image of Step 7](/images/4_building_step_07.jpg)
+### Step 5: Attach the Pisugar battery to the raspberry pi
+![Image of Step 5](/images/4_building_step_07.jpg)
 
 #### Finished! Now you are ready to begin flashing the microSD card
 
@@ -133,7 +136,7 @@ Make sure that you are placing a COPY of the file onto the microSD card. The pwn
 ![Image of Step 14](/images/5_installing_step_14.jpg)
 
 ### Step 15: Power on the raspberry pi 
-Make sure to plug the USB cable into the port on the LEFT. The micro USB port on the left is the power port and is for normal use. The micro USB port on the right is the maintenance port and is used to retrieve data from your pwnagotchi. 
+Make sure to plug the USB cable into the port on the LEFT. The micro USB port on the left is the power port. The micro USB port on the right is the maintenance port and is used to retrieve data from your pwnagotchi. 
 ![Image of Step 15](/images/5_installing_step_15.jpg)
 
 ### Step 16: Wait for the raspberry pi to power on. You should see a green indicator light start flashing.
